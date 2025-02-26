@@ -1,0 +1,95 @@
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 17:47:24 INFO  Utils:112 - [TestNG] Running:
+  /private/var/folders/4w/20vlnnts7pvf_4dmcwvhlrnw0000gn/T/testng-eclipse--1550687990/testng-customsuite.xml
+
+2025-02-21 17:47:24 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-02-21 17:48:40 INFO  TC_001_AccountRegistrationTest:17 - ***** Strating TC_001_AccountRegistratationTest *******
+2025-02-21 17:48:41 INFO  TC_001_AccountRegistrationTest:26 - Click on the My Account Link
+2025-02-21 17:48:44 INFO  TC_001_AccountRegistrationTest:30 - Click on the Register Link
+2025-02-21 17:48:44 INFO  TC_001_AccountRegistrationTest:34 - Providing customer details....
+2025-02-21 17:48:47 INFO  TC_001_AccountRegistrationTest:50 - Validating Expected Message...
+2025-02-21 17:48:47 INFO  TC_001_AccountRegistrationTest:62 - ***** Finished TC_001_AccountRegistratationTest *******
+2025-02-21 17:48:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@365553de: 34 ms
+2025-02-21 17:48:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@2c6ee758: 92 ms
+2025-02-21 17:48:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@640dc4c6: 1 ms
+2025-02-21 17:48:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3e1624c7: 9 ms
+2025-02-21 17:48:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3cd59ef5: 8 ms
+2025-02-21 17:48:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46d9aec8: 6 ms
+2025-02-21 17:48:47 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@14379273: 0 ms
+2025-02-21 18:26:21 DEBUG TestNG:82 - suiteXmlPath: "/var/folders/4w/20vlnnts7pvf_4dmcwvhlrnw0000gn/T/testng-eclipse--1552486973/testng-customsuite.xml"
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-21 18:26:21 INFO  Utils:112 - [TestNG] Running:
+  /private/var/folders/4w/20vlnnts7pvf_4dmcwvhlrnw0000gn/T/testng-eclipse--1552486973/testng-customsuite.xml
+
+2025-02-21 18:26:21 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-02-21 18:26:35 INFO  TC_001_AccountRegistrationTest:17 - ***** Starting TC_001_AccountRegistratationTest *******
+2025-02-21 18:26:37 INFO  TC_001_AccountRegistrationTest:26 - Click on the My Account Link
+2025-02-21 18:26:39 INFO  TC_001_AccountRegistrationTest:30 - Click on the Register Link
+2025-02-21 18:26:39 INFO  TC_001_AccountRegistrationTest:34 - Providing customer details....
+2025-02-21 18:26:42 INFO  TC_001_AccountRegistrationTest:50 - Validating Expected Message...
+2025-02-21 18:26:42 INFO  TC_001_AccountRegistrationTest:70 - ***** Finished TC_001_AccountRegistratationTest *******
+2025-02-21 18:26:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@365553de: 23 ms
+2025-02-21 18:26:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@2c6ee758: 98 ms
+2025-02-21 18:26:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@640dc4c6: 0 ms
+2025-02-21 18:26:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3e1624c7: 6 ms
+2025-02-21 18:26:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3cd59ef5: 10 ms
+2025-02-21 18:26:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46d9aec8: 7 ms
+2025-02-21 18:26:43 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@14379273: 0 ms
