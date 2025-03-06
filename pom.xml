@@ -45,6 +45,14 @@
 		    <artifactId>poi-ooxml</artifactId>
 		    <version>5.2.5</version>
 		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-email -->
+        <dependency>
+           <groupId>org.apache.commons</groupId>
+           <artifactId>commons-email</artifactId>
+          <version>1.5</version>
+        </dependency>
+
 
 	
 	<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
@@ -73,11 +81,11 @@
 
 		
 	<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
-	<dependency>
-	    <groupId>com.aventstack</groupId>
-	    <artifactId>extentreports</artifactId>
-	    <version>5.1.1</version>
-	</dependency>
+   <dependency>
+       <groupId>com.aventstack</groupId>
+       <artifactId>extentreports</artifactId>
+       <version>5.1.2</version>
+   </dependency>
 	
 	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 	<dependency>
